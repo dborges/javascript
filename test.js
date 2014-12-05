@@ -9,4 +9,4 @@ var car {
 
 
 
-console.log(car.color);
+alert(car.color);
