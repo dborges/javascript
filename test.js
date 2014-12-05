@@ -3,7 +3,8 @@ var car {
 	type: "SUV",
 	engine: "v8",
 	make: "Ford",
-	doors: 4
+	doors: 4,
+	gps: true
 }
 
 
